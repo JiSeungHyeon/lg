@@ -16,7 +16,12 @@
 
 
 # Sub 3
-- 호버 시 움직이는 이미지 (jQuery의 attr)
+- 호버 시 gif로 변경 (jQuery의 attr)
 
 
-  
+# Sub 4-1
+- 탭메뉴 (jQuery의 add/removeclass와 attr)
+
+
+# Sub 4-2
+- 썸네일이 있는 갤러리 (jQuey의 index)

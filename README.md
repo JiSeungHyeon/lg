@@ -7,3 +7,16 @@
 - 자동 슬라이드 (jQuery의 animate와 setInterval)
 - 무한 슬라이드 (jQuery의 appendTo)
 - 화살표 누르면 넘어가는 슬라이드 (jQuery의 length와 eq)
+- 호버 시 나타나는 메뉴 (jQuery의 hover와 find)
+
+
+# Sub 1-2
+- 아코디언 탭 (jQuery의 add/removeclass와 attr)
+- 비주얼 슬라이드 (jQuery의 setInterval과 length/width)
+
+
+# Sub 3
+- 호버 시 움직이는 이미지 (jQuery의 attr)
+
+
+  
